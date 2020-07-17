@@ -1,1 +1,1 @@
-# DiplomProject
+# DiplomProject my courses
